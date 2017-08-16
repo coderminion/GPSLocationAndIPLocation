@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GpsLocationAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="permission_denied">Permission Denied</string>
+
+
+    <string name="no_address_found">Sorry, no address found</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="service_not_available">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+    <string name="address_found">Address found</string>
+    <string name="fetch_address">Fetch address</string>
+
+
+    <!--INTERNET-->
+    <string name="contentnotfound">Page Not Found</string>
+    <string name="unauthorized">Unauthorized</string>
+    <string name="badrequest">Bad Request</string>
+    <string name="serverexception">Server Error!</string>
+    <string name="connectionerror">Connection Error</string>
+    <string name="internet_problem">Internet Connection Problem. You do not have an active internet connection.</string>
+    <string name="timeout">Timeout Error. Please retry.</string>
+</resources>

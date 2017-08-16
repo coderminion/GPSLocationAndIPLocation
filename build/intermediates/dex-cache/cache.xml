@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_92156b667aa7fd9cc751c59b5c0e257786083740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_21c7c19ed36a856253d7e46401141460749afcb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_95b56fb3d28f0a91a085b67238308a668d31c284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-11.0.4_b9ec1b241df6c0dd3a7ab40795a31e0128cd1f00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_02fc4969c7d5a48986fbc83575d6e764e22733ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_f663c890e178207798757898c2a7c2173a195f7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_23c3ad305a10d1c11f4dd9fccd3cc64c2cba0039.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_cebef43ac1d157d158ffaef4933757cd213141c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_6604d057408dd6f57638f9ad70910fff9295a86a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_9b45313adc831e547f9b11554b92e680aea5d584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_9c1f7ea46dd0ad3ea5327a2a21b171fea3334537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_e4a5bbcd583ebbe0aafa91c99a424bdc88d96ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_882bc2ffe792e0609f0d84dcd8a427f977db886c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_a9c598b51b77300cf94482cd638e2a45960866be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_a02d34f4ae55d9b3283cb47a9566290a78d9d5c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_2517c65b252ea167b418b43aad78458a6c338caa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/vaibhav/Downloads/GpsLocationAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_02889e3b95f477084bd9ff2cddd71e20ded5df23.jar" />
+    </item>
+
+</items>
