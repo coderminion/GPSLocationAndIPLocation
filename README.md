@@ -1,4 +1,14 @@
 # GPSLocationAndIPLocation
+
+Screenshots 
+
+<img src ="/sample1.png"/> 
+
+<img src ="/sample2.png"/>
+
+<img src ="/sample3.png"/>
+
+
 Getting the user’s location on Android is a little less straightforward than on iOS. To start the confusion, there are two totally different ways you can do it. The first is using Android APIs from android.location.LocationListener, and the second is using Google Play Services APIs com.google.android.gms.location.LocationListener. Let’s go through both of them.
 Android’s Location API
 
